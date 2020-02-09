@@ -1,3 +1,3 @@
 # Sudoku
 
-Interactive sudoku game program with an integer programming solver copmonent
+An interactive sudoku game program with an integer programming solver copmonent
